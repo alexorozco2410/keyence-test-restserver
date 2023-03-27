@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_web"]=self["webpackChunkapp_web"]||[]).push([[622],{2999:function(n,e,u){u.r(e),u.d(e,{default:function(){return i}});var r=u(3396);function t(n,e,u,t,a,c){const p=(0,r.up)("router-view"),i=(0,r.up)("v-container");return(0,r.wg)(),(0,r.iD)("div",null,[(0,r.Wm)(i,null,{default:(0,r.w5)((()=>[(0,r.Wm)(p)])),_:1})])}var a={},c=u(89);const p=(0,c.Z)(a,[["render",t]]);var i=p}}]);
+//# sourceMappingURL=Archivos Layout.5183f5cb.js.map
